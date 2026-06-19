@@ -8,7 +8,7 @@ The goal of these projects is to demonstrate operational capability in network i
 
 | Project Category | Core Tools & Skills | Documentation Link |
 | :--- | :--- | :--- |
-| **01. Core Infrastructure Blueprints** | Linux/Windows CLI, DNS, OSI Layer Analysis | [View Full Report](./01-Networking-Blueprints/README.md) |
+| **01. Core Infrastructure Blueprints** | Linux/Windows CLI, DNS, OSI Layer Analysis | [View Full Report](./01-Core-Infrastructure-Blueprints/README.md) |
 | **02. Network Visibility & Log Analysis** | Wireshark, Tcpdump, Linux/Windows Telemetry Logs | [View Full Report](./02-Log-Visibility-Analysis/README.md) |
 | **03. Defensive Architecture & Tooling** | SIEM Concepts, CyberChef, Incident Response (NIST) | [View Full Report](./03-Defensive-Architecture/README.md) |
 
